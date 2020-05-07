@@ -117,7 +117,7 @@ import Contenedores from "./modulos/Contenedores"
         ScrollSpyInit({})
         BotonFlotanteInit({})
         ImagenesInit()
-        SliderInit()
+        SliderInit({})
         ParalaxInit()
         ToolTipsInit()
     }
@@ -164,7 +164,7 @@ import Contenedores from "./modulos/Contenedores"
         BotonFlotanteInit: (config)=> BotonFlotanteInit(config),
         ImagenesInit: () => ImagenesInit(),
         Deshabilitar: () => Deshabilitar(),
-        SliderInit: (config) => SliderInit(config),
+        SliderInit: (config = {}) => SliderInit(config),
         ParalaxInit: () => ParalaxInit(),
         BotonInicioInit: () => BotonInicioInit(),
         TabInit: () => TabInit(),

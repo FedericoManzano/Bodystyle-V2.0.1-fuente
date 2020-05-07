@@ -26,6 +26,10 @@
             mensaje: "06 Efecto hover erroneo: \n Los valores posibles para el efecto hover del componente select son {none|borde|fondo}"
         },
 
+        efecto: {
+            validacion: (val) => val === "lateral" || val === "fade",
+            mensaje:  "07 Efecto slider erroneo: \n Los valores posibles para el efecto son {lateral|fade}"
+        },
     }
 
     window.ERR = ERR

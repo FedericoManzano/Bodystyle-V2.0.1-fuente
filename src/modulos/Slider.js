@@ -1,6 +1,6 @@
 
 import $ from 'jquery'
-
+import ERR from "./Errores"
 
 (function(){
 
@@ -13,21 +13,39 @@ import $ from 'jquery'
     var config = {}
     var timer = null
 
+    var validarConfig = ( efecto, tiempo ) => {
 
-    var Inicializar = ({
-        efecto, automatico, tiempo, select
-    } = {
-        efecto: "lateral",
-        automatico: false,
-        tiempo: 3000,
-        select: true
-    }) => {
-        if(cantidadElementos === 0) return
-        config.efecto = efecto === undefined ? "lateral": efecto
-        config.automatico = automatico === undefined ?  false : automatico
-        config.tiempo = tiempo === undefined ? 3000: tiempo
-        config.select = select === undefined ? true : select
+        const MODULO = "Error BodyStyle dice: M27"
 
+        if(!ERR.efecto.validacion(efecto)){
+            console.error(MODULO + ERR.efecto.mensaje)
+            return false
+        }
+
+        if(!ERR.positivos.validacion(tiempo)){
+            console.error(MODULO + ERR.positivos.mensaje)
+            return false
+        }
+
+        return true
+    }
+
+
+    var Inicializar = ({    
+                            efecto = "lateral", 
+                            automatico = false, 
+                            tiempo = 3000, 
+                            select = true 
+                        }
+    ) => {
+        
+        if(!validarConfig(efecto, tiempo))
+            return
+
+        config.efecto = efecto
+        config.automatico = automatico
+        config.tiempo = tiempo
+        config.select = select
         $("html, body").css("height","100%")
 
 
