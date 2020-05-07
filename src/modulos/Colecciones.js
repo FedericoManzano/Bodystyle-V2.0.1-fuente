@@ -61,6 +61,7 @@ class Coleccion {
     cargarConfiguracion(c){
 
         $(c.contexto + " .lista-contenedor").addClass(c.colorFondo)
+        $(c.contexto + " .lista-item").addClass(c.colorFondo)
         $(c.contexto + " a").addClass(c.colorTexto)
         $(c.contexto + " p").addClass(c.colorTexto)
         $(c.contexto + " b").addClass(c.colorTexto)

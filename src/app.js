@@ -114,7 +114,6 @@ import Contenedores from "./modulos/Contenedores"
         SidebarInit() // Sidebar Movil
         ModalInit()
         DropDownInit({})
-        SidebarFijaInit({}) // Sidebar fija
         ScrollSpyInit({})
         BotonFlotanteInit({})
         ImagenesInit()

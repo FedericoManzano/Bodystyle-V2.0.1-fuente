@@ -29,7 +29,7 @@
         background-color: white;
         border: 1px solid rgba(0, 0, 0, 0.171);
         border-radius: 5px;
-        font-family: "Roboto";
+        
         input, select {
             border: none;
             background: none;
@@ -68,10 +68,10 @@
             content: "";
             position: absolute;
             width:30px;
-            height: 2.8em;
+            height: 2.7em;
             background-color: white;
             right: -35px;
-            top: -25px;
+            top: -24px;
             z-index: 2;
         }
 

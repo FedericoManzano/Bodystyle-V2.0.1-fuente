@@ -1599,43 +1599,43 @@
 }
 
 .bor-rojo-t-1 {
-  border: 1px solid rgba(255, 51, 0, 0.7) !important;
+  border: 1px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-2 {
-  border: 2px solid rgba(255, 51, 0, 0.7) !important;
+  border: 2px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-3 {
-  border: 3px solid rgba(255, 51, 0, 0.7) !important;
+  border: 3px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-4 {
-  border: 4px solid rgba(255, 51, 0, 0.7) !important;
+  border: 4px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-5 {
-  border: 5px solid rgba(255, 51, 0, 0.7) !important;
+  border: 5px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-6 {
-  border: 6px solid rgba(255, 51, 0, 0.7) !important;
+  border: 6px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-7 {
-  border: 7px solid rgba(255, 51, 0, 0.7) !important;
+  border: 7px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-8 {
-  border: 8px solid rgba(255, 51, 0, 0.7) !important;
+  border: 8px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-9 {
-  border: 9px solid rgba(255, 51, 0, 0.7) !important;
+  border: 9px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-10 {
-  border: 10px solid rgba(255, 51, 0, 0.7) !important;
+  border: 10px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-o-1 {
@@ -2732,7 +2732,7 @@
 }
 
 .c-rojo-t {
-  color: rgba(255, 51, 0, 0.7) !important;
+  color: rgba(255, 51, 0, 0.3) !important;
 }
 
 .c-rojo-an {
@@ -2768,7 +2768,7 @@
 }
 
 .c-azul-t {
-  color: rgba(16, 69, 183, 0.5) !important;
+  color: rgba(16, 69, 183, 0.3) !important;
 }
 
 .c-azul-vi {
@@ -2812,7 +2812,7 @@
 }
 
 .c-gris-t {
-  color: rgba(160, 160, 160, 0.5) !important;
+  color: rgba(160, 160, 160, 0.3) !important;
 }
 
 .c-gris-az {
@@ -2852,7 +2852,7 @@
 }
 
 .fd-violeta-t {
-  color: rgba(12, 2, 32, 0.7) !important;
+  color: rgba(12, 2, 32, 0.3) !important;
 }
 
 .c-violeta-az {
@@ -2876,7 +2876,7 @@
 }
 
 .c-naranja-t {
-  color: rgba(212, 71, 16, 0.7) !important;
+  color: rgba(212, 71, 16, 0.3) !important;
 }
 
 .c-naranja-ro {
@@ -2900,7 +2900,7 @@
 }
 
 .c-amarillo-t {
-  color: rgba(255, 217, 0, 0.7) !important;
+  color: rgba(255, 217, 0, 0.3) !important;
 }
 
 .c-amarillo-ve {

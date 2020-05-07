@@ -76,7 +76,7 @@ import ERR from './Errores'
         
         
         $(".sidebarFija").addClass(colorFondo)
-        $(".sidebarFija .sedebarLogo").addClass(colorLogo)
+        $(".sidebarFija .sedebarLogo *").addClass(colorLogo)
         $(".sidebarFija .titulo").addClass(colorTitulos)
         $(".sidebarFija ul li a").addClass(colorEnlaces)
 

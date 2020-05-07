@@ -1,8 +1,7 @@
 {
   "name": "body-ui",
-  "version": "2.0.0",
-  "version_short": "2.0",
-  "description": "v2.0.0 de la librería de estilos CSS BodyStyle",
+  "version": "2.0.1",
+  "description": "v2.0.1 de la librería de estilos CSS BodyStyle",
   "main": "dist/js/bodystyle.js",
   "scripts": {
     "build": "webpack"
@@ -23,7 +22,7 @@
   "author": "Federico Manzano",
   "license": "MIT",
   "style": "dist/css/bodystyle.css",
-  "sass": "sass/bootstrap.scss",
+  "sass": "sass/bodystyle.scss",
   "dependencies": {
     "babel-loader": "^8.1.0",
     "jquery": "^3.5.0"

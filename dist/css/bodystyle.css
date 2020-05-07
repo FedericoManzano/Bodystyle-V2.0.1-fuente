@@ -1692,43 +1692,43 @@ a.link:hover {
 }
 
 .bor-rojo-t-1 {
-  border: 1px solid rgba(255, 51, 0, 0.7) !important;
+  border: 1px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-2 {
-  border: 2px solid rgba(255, 51, 0, 0.7) !important;
+  border: 2px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-3 {
-  border: 3px solid rgba(255, 51, 0, 0.7) !important;
+  border: 3px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-4 {
-  border: 4px solid rgba(255, 51, 0, 0.7) !important;
+  border: 4px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-5 {
-  border: 5px solid rgba(255, 51, 0, 0.7) !important;
+  border: 5px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-6 {
-  border: 6px solid rgba(255, 51, 0, 0.7) !important;
+  border: 6px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-7 {
-  border: 7px solid rgba(255, 51, 0, 0.7) !important;
+  border: 7px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-8 {
-  border: 8px solid rgba(255, 51, 0, 0.7) !important;
+  border: 8px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-9 {
-  border: 9px solid rgba(255, 51, 0, 0.7) !important;
+  border: 9px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-t-10 {
-  border: 10px solid rgba(255, 51, 0, 0.7) !important;
+  border: 10px solid rgba(255, 51, 0, 0.3) !important;
 }
 
 .bor-rojo-o-1 {
@@ -2825,7 +2825,7 @@ a.link:hover {
 }
 
 .c-rojo-t {
-  color: rgba(255, 51, 0, 0.7) !important;
+  color: rgba(255, 51, 0, 0.3) !important;
 }
 
 .c-rojo-an {
@@ -2861,7 +2861,7 @@ a.link:hover {
 }
 
 .c-azul-t {
-  color: rgba(16, 69, 183, 0.5) !important;
+  color: rgba(16, 69, 183, 0.3) !important;
 }
 
 .c-azul-vi {
@@ -2905,7 +2905,7 @@ a.link:hover {
 }
 
 .c-gris-t {
-  color: rgba(160, 160, 160, 0.5) !important;
+  color: rgba(160, 160, 160, 0.3) !important;
 }
 
 .c-gris-az {
@@ -2945,7 +2945,7 @@ a.link:hover {
 }
 
 .fd-violeta-t {
-  color: rgba(12, 2, 32, 0.7) !important;
+  color: rgba(12, 2, 32, 0.3) !important;
 }
 
 .c-violeta-az {
@@ -2969,7 +2969,7 @@ a.link:hover {
 }
 
 .c-naranja-t {
-  color: rgba(212, 71, 16, 0.7) !important;
+  color: rgba(212, 71, 16, 0.3) !important;
 }
 
 .c-naranja-ro {
@@ -2993,7 +2993,7 @@ a.link:hover {
 }
 
 .c-amarillo-t {
-  color: rgba(255, 217, 0, 0.7) !important;
+  color: rgba(255, 217, 0, 0.3) !important;
 }
 
 .c-amarillo-ve {
@@ -5999,7 +5999,7 @@ a.link:hover {
 }
 
 .fd-rojo-t {
-  background-color: rgba(255, 51, 0, 0.7) !important;
+  background-color: rgba(255, 51, 0, 0.3) !important;
 }
 
 .fd-rojo-an {
@@ -6035,7 +6035,7 @@ a.link:hover {
 }
 
 .fd-rosa-t {
-  background-color: rgba(197, 0, 56, 0.7) !important;
+  background-color: rgba(197, 0, 56, 0.3) !important;
 }
 
 .fd-azul {
@@ -6075,7 +6075,7 @@ a.link:hover {
 }
 
 .fd-azul-t {
-  background-color: rgba(16, 69, 183, 0.5) !important;
+  background-color: rgba(16, 69, 183, 0.3) !important;
 }
 
 .fd-azul-vi {
@@ -6143,7 +6143,7 @@ a.link:hover {
 }
 
 .fd-gris-t {
-  background-color: rgba(160, 160, 160, 0.5) !important;
+  background-color: rgba(160, 160, 160, 0.3) !important;
 }
 
 .fd-gris-az {
@@ -6195,7 +6195,7 @@ a.link:hover {
 }
 
 .fd-violeta-t {
-  background-color: rgba(12, 2, 32, 0.7) !important;
+  background-color: rgba(12, 2, 32, 0.3) !important;
 }
 
 .fd-violeta-az {
@@ -6231,7 +6231,7 @@ a.link:hover {
 }
 
 .fd-naranja-t {
-  background-color: rgba(212, 71, 16, 0.7) !important;
+  background-color: rgba(212, 71, 16, 0.3) !important;
 }
 
 .fd-naranja-ro {
@@ -6267,7 +6267,7 @@ a.link:hover {
 }
 
 .fd-amarillo-t {
-  background-color: rgba(255, 217, 0, 0.7) !important;
+  background-color: rgba(255, 217, 0, 0.3) !important;
 }
 
 .fd-amarillo-ve {
@@ -15199,8 +15199,8 @@ table tbody tr td,
 .tabla-oscura thead tr td,
 .tabla-oscura tbody tr td {
   padding: 1em 1em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-left: none;
   font-weight: 600;
 }
@@ -15212,7 +15212,7 @@ table tbody tr td {
 }
 
 table thead {
-  background-color: rgba(0, 0, 0, 0.1) !important;
+  background-color: rgba(0, 0, 0, 0.034) !important;
 }
 
 table tbody tr td {
@@ -15376,7 +15376,6 @@ table tbody tr td {
     margin-bottom: 15px;
     overflow-y: hidden;
     -ms-overflow-style: -ms-autohiding-scrollbar;
-    border: 1px solid #ddd;
   }
 
   .tabla-responsive > table {
@@ -15392,6 +15391,15 @@ table tbody tr td {
     white-space: nowrap;
   }
 }
+.borde-vertical thead tr td,
+.borde-vertical tbody tr td {
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+.borde-vertical thead tr td:last-child,
+.borde-vertical tbody tr td:last-child {
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+
 .alerta-roja,
 .alerta-azul,
 .alerta-verde,
@@ -16904,7 +16912,6 @@ table tbody tr td {
   padding: 50px 30px 100px 30px;
   text-align: center;
   position: relative;
-  font-family: "Roboto", sans-serif;
 }
 .footer .footer-titulo {
   font-size: 25px;
@@ -17531,7 +17538,6 @@ table tbody tr td {
   font-size: 1em;
   cursor: pointer;
   transition: all 0.3s ease;
-  font-family: "HelveticaNeue", "Roboto", Helvetica, sans-serif;
   white-space: nowrap;
 }
 .dropdown ul li a.dd-a:hover:not(.disabled) {
@@ -20242,14 +20248,13 @@ input.btn-cubrir-lg-o {
 .lista-contenedor .lista-item {
   padding: 7px 10px;
   font-size: 1.1em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  border-left: 1px solid rgba(0, 0, 0, 0.2);
-  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
   display: flex;
   justify-content: space-between;
   position: relative;
   cursor: pointer;
-  background-color: white;
 }
 .lista-contenedor .lista-item.desactivado * {
   color: #afafaf !important;
@@ -20262,11 +20267,39 @@ input.btn-cubrir-lg-o {
   font-size: 15px;
   color: black;
 }
-.lista-contenedor .lista-item:hover {
+.lista-contenedor .lista-item:first-child {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.lista-contenedor .lista-item-img {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
+.lista-contenedor .lista-item-img .img-cont {
+  overflow: hidden;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.lista-contenedor .lista-item-img .img-cont img {
+  max-width: 100%;
+}
+.lista-contenedor .lista-item-img *:not(.img-cont) {
+  padding-left: 5px;
+}
+.lista-contenedor .lista-item-img * {
+  display: block;
+  font-size: 18px;
+  color: black;
+}
+.lista-contenedor .lista-item-img:hover {
   background-color: rgba(0, 0, 0, 0.048) !important;
 }
-.lista-contenedor .lista-item:first-child {
-  border-top: 1px solid rgba(0, 0, 0, 0.2);
+.lista-contenedor .lista-item-img:first-child {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 .lista-contenedor .desplegable {
   background-color: rgba(0, 0, 0, 0.096);
@@ -20284,6 +20317,41 @@ input.btn-cubrir-lg-o {
 }
 .lista-contenedor .desplegable ul li a:hover {
   background-color: rgba(0, 0, 0, 0.096);
+}
+
+.lista-usuario {
+  display: flex;
+  flex-direction: column;
+}
+.lista-usuario .lista-item {
+  padding: 5px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.lista-usuario .lista-item .contenido {
+  display: flex;
+  align-items: center;
+}
+.lista-usuario .lista-item .contenido .img-cont {
+  overflow: hidden;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.lista-usuario .lista-item .contenido .img-cont img {
+  max-width: 100%;
+}
+.lista-usuario .lista-item .contenido *:not(.img-cont) {
+  font-size: 20px;
+  color: #0f0f0f;
+  padding-left: 10px;
+  font-weight: 500;
+}
+.lista-usuario .lista-item .contenido *:not(.img-cont):hover {
+  color: #007c67;
 }
 
 .tab {
@@ -21546,7 +21614,6 @@ select:focus {
   background-color: white;
   border: 1px solid rgba(0, 0, 0, 0.171);
   border-radius: 5px;
-  font-family: "Roboto";
 }
 .tem-formulario .tem-input input, .tem-formulario .tem-input select {
   border: none;
@@ -21580,10 +21647,10 @@ select:focus {
   content: "";
   position: absolute;
   width: 30px;
-  height: 2.8em;
+  height: 2.7em;
   background-color: white;
   right: -35px;
-  top: -25px;
+  top: -24px;
   z-index: 2;
 }
 .tem-formulario .tem-input input:focus {
