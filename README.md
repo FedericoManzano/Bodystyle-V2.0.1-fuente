@@ -26,13 +26,13 @@ Puede encontrar todo lo referido a la librería (Descarga, componentes, funciona
 ### CDN
 
 #### bodystyle.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/bodystyle.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/bodystyle.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/bodystyle.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/bodystyle.css)
 
 #### bodystyle.min.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/bodystyle.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/bodystyle.min.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/bodystyle.min.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/bodystyle.min.css)
 
 #### grillaSolo.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.css)
 
 #### grillaSolo.min.css
 [https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.min.css)
