@@ -1,4 +1,4 @@
-# BodyStyle v2.0.0
+# BodyStyle v2.0.1
 
 ## Librería de estilos en CSS
 
@@ -17,11 +17,14 @@ Puede encontrar todo lo referido a la librería (Descarga, componentes, funciona
 
 #### Archivo .zip Compilado
 
-[BodyStyle-v2.0.0-compilado/archive/master.zip](https://github.com/FedericoManzano/BodyStyle-v2.0.0-compilado/archive/master.zip)
+[https://github.com/FedericoManzano/Bodystyle-v2.0.1-compilado/archive/master.zip](https://github.com/FedericoManzano/Bodystyle-v2.0.1-compilado/archive/master.zip)
 
 #### Archivo .zip Fuente
 
-[bodystyle-fuente-v2.0.0/archive/master.zip](https://github.com/FedericoManzano/bodystyle-fuente-v2.0.0/archive/master.zip)
+[https://github.com/FedericoManzano/Bodystyle-V2.0.1-fuente/archive/master.zip](https://github.com/FedericoManzano/Bodystyle-V2.0.1-fuente/archive/master.zip)
+
+#### Solo la grilla .zip
+[https://github.com/FedericoManzano/Bodystyle-2.0.1-grilla/archive/master.zip](https://github.com/FedericoManzano/Bodystyle-2.0.1-grilla/archive/master.zip)
 
 ### CDN
 
@@ -35,21 +38,21 @@ Puede encontrar todo lo referido a la librería (Descarga, componentes, funciona
 [https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.css)
 
 #### grillaSolo.min.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/grillaSolo.min.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.min.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/grillaSolo.min.css)
 
 
 #### utilitarios.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/utilitarios.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/utilitarios.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/utilitarios.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/utilitarios.css)
 
 #### utilitarios.min.css
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/utilitarios.min.css](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/css/utilitarios.min.css)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/utilitarios.min.css](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/css/utilitarios.min.css)
 
 
 #### bodystyle.js
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/js/bodystyle.js](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/js/bodystyle.js)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/js/bodystyle.js](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/js/bodystyle.js)
 
 #### bodystyle.min.js
-[https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/js/bodystyle.min.js](https://ghcdn.rawgit.org/FedericoManzano/bodystyle-fuente-v2.0.0/master/dist/js/bodystyle.min.js)
+[https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/js/bodystyle.min.js](https://ghcdn.rawgit.org/FedericoManzano/Bodystyle-V2.0.1-fuente/master/dist/js/bodystyle.min.js)
 
 ### Node Package
 
@@ -82,3 +85,4 @@ yarn add body-ui
 ## Licencia
 
 MIT 
+
