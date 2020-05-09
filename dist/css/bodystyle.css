@@ -15199,8 +15199,8 @@ table tbody tr td,
 .tabla-oscura thead tr td,
 .tabla-oscura tbody tr td {
   padding: 1em 1em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
   border-left: none;
   font-weight: 600;
 }
@@ -15393,11 +15393,11 @@ table tbody tr td {
 }
 .borde-vertical thead tr td,
 .borde-vertical tbody tr td {
-  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
 }
 .borde-vertical thead tr td:last-child,
 .borde-vertical tbody tr td:last-child {
-  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .alerta-roja,
@@ -20255,9 +20255,9 @@ input.btn-cubrir-lg-o {
 .lista-contenedor .lista-item {
   padding: 7px 10px;
   font-size: 1.1em;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  border-left: 1px solid rgba(0, 0, 0, 0.1);
-  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: space-between;
   position: relative;
@@ -20275,14 +20275,14 @@ input.btn-cubrir-lg-o {
   color: black;
 }
 .lista-contenedor .lista-item:first-child {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 .lista-contenedor .lista-item-img {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  border-left: 1px solid rgba(0, 0, 0, 0.1);
-  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
   padding: 10px;
 }
 .lista-contenedor .lista-item-img .img-cont {
@@ -20306,7 +20306,7 @@ input.btn-cubrir-lg-o {
   background-color: rgba(0, 0, 0, 0.048) !important;
 }
 .lista-contenedor .lista-item-img:first-child {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 .lista-contenedor .desplegable {
   background-color: rgba(0, 0, 0, 0.096);
@@ -20332,7 +20332,7 @@ input.btn-cubrir-lg-o {
 }
 .lista-usuario .lista-item {
   padding: 5px 20px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   display: flex;
   justify-content: space-between;
   align-items: center;

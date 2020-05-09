@@ -6,8 +6,8 @@ import ERR from './Errores'
     var abierto = 0
     var tiempo = 300
     
-    // Codigo de error MODULO 24
-    const MODULO = "Error BodyStyle dice: M24"
+    // Codigo de error MODULO 26
+    const MODULO = "Error BodyStyle dice: M26"
 
 
     var validacionConfiguracion = (

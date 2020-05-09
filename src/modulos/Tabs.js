@@ -1,4 +1,5 @@
 import $ from 'jquery'
+import ERR from "./Errores"
 
 class Tab {
 
@@ -7,6 +8,13 @@ class Tab {
      * @param {ID del contenedor padre de todo el tab} contexto 
      */
     inicializar(contexto) {
+
+        const MODULO = "Error BodyStyle dice: M28"
+        if(!ERR.id.validacion.test(contexto)){
+            console.error(MODULO + ERR.id.mensaje)
+            return 
+        }
+
         var encontrado = 0
         $(contexto + " .contenido-tab").hide()
         $(contexto + " .tab .op-tab label").each(function(){
@@ -72,13 +80,30 @@ class Tab {
         this.cambiarSolapa(contexto)
     }
 
-    iniciarBorde({contexto, colorFuente, colorFondo, colorBorde} = {
-        /** Valores por defecto */
-        contexto: "vacio", 
-        colorFuente: "c-negro",
-        colorFondo: "fd-blanco",
-        colorBorde: "fd-negro"
-    }){
+    iniciarBorde({contexto = "vacio", colorFuente = "c-negro", colorFondo = "fd-blanco", colorBorde = "fd-negro"}){
+
+
+        const MODULO = "Error BodyStyle dice: M28"
+        if(!ERR.id.validacion.test(contexto)){
+            console.error(MODULO + ERR.id.mensaje)
+            return 
+        }
+
+        if(!ERR.clasesColorTexto.validacion.test(colorFuente)){
+            console.error(MODULO + ERR.clasesColorTexto.mensaje)
+            return
+        }
+
+        if(!ERR.clasesColorFondo.validacion.test(colorFondo)){
+            console.error(MODULO + ERR.clasesColorFondo.mensaje)
+            return
+        }
+
+        if(!ERR.clasesColorFondo.validacion.test(colorBorde)){
+            console.error(MODULO + ERR.clasesColorFondo.mensaje)
+            return
+        }
+
 
         var c = {
             contexto,       // ID del contenido

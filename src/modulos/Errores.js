@@ -30,6 +30,11 @@
             validacion: (val) => val === "lateral" || val === "fade",
             mensaje:  "07 Efecto slider erroneo: \n Los valores posibles para el efecto son {lateral|fade}"
         },
+
+        posicion: {
+            validacion: (val) => val === "arriba" ||  val === "abajo" || val === "izquierda" || val === "derecha",  
+            mensaje: "08 posición erronea: \n Los valores posibles la posición son {arriba|abajo|izquierda|derecha}"
+        }
     }
 
     window.ERR = ERR

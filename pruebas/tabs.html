@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="stylesheet" href="../dist/css/bodystyle.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="tab3">
+        <div class="tab-borde ">
+            <div class="op-tab-borde">
+                <ul>
+                    <label data-target="#c-1">Test 1</label>
+                    <label data-target="#c-2" >Test 2</label>
+                    <label data-target="#c-3">Test 3</label>
+                    <label data-target="#c-4" class="desactivado">Desactivado</label>
+                </ul>
+            </div>
+        </div>
+        <div id="c-1" class="contenido-tab">
+            <h3>Test 1</h3>
+        </div>
+        <div id="c-2" class="contenido-tab">
+            <h3>Test 2</h3>
+        </div>
+        <div id="c-3" class="contenido-tab">
+            <h3>Test 3</h3>
+        </div>
+        <div id="c-4" class="contenido-tab">
+            <h3>Desactivado</h3>
+        </div>
+    </div>
+
+
+
+    <script src="../dist/js/bodystyle.js"></script>
+
+    <script>
+        BS.TabInit().iniciarBorde({contexto: "#tab3"})
+    </script>
+</body>
+</html>

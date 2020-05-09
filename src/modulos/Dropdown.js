@@ -5,7 +5,7 @@ import ERR from './Errores'
     
     var presionado = 0;
     const margin = 10
-    const MODULO = "Error BodyStyle dice: M07"
+    const MODULO = "Error BodyStyle dice: M08"
 
     var configurarDropDown = ({color = "#fff"}) => {
         
